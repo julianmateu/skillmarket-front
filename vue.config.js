@@ -8,4 +8,7 @@ module.exports = {
                 return args;
             });
     },
+    devServer: {
+        proxy: 'https://localhost:3000'
+    }
 };

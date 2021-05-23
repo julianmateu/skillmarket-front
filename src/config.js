@@ -1,5 +1,5 @@
 const {
-    VUE_APP_API_URL = 'http://localhost:3000',
+    VUE_APP_API_URL = 'https://localhost:8080',
 // eslint-disable-next-line no-undef
 } = process.env;
 
